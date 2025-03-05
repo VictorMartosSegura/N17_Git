@@ -8,6 +8,7 @@ public class Main {
     }
     private static void method1(){
         System.out.println("Bollito de crema");
+        System.out.println("5");
     }
     private static void method2(){
         System.out.println("Osito de peluche");
