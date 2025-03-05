@@ -16,6 +16,7 @@ public class Main {
     }
     private static void method3(){
         System.out.println("Antonio");
+        System.out.println("11111");
     }
     private static void method4(){
         System.out.println("Mbappe");
