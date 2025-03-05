@@ -23,5 +23,6 @@ public class Main {
     private static void method4(){
         System.out.println("Mbappe");
         System.out.println("El goat");
+        System.out.println("Hola");
     }
 }
