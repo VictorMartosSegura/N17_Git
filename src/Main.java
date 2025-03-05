@@ -11,6 +11,7 @@ public class Main {
     }
     private static void method2(){
         System.out.println("Osito de peluche");
+        System.out.println("Joselu");
     }
     private static void method3(){
         System.out.println("Antonio");
