@@ -9,6 +9,7 @@ public class Main {
     private static void method1(){
         System.out.println("Bollito de crema");
         System.out.println("5");
+        System.out.println("lalalala");
     }
     private static void method2(){
         System.out.println("Osito de peluche");
